@@ -1,0 +1,26 @@
+[
+    {
+        "src": "assets/products/piano.png",
+        "price": 2600
+    },
+    {
+        "src": "assets/products/pcgamer.png",
+        "price": 2099
+    },
+    {
+        "src": "assets/products/pomme.png",
+        "price": 1
+    },
+    {
+        "src": "assets/products/iphone16.png",
+        "price": 1350
+    },
+    {
+        "src": "assets/products/peugeot205.png",
+        "price": 2400
+    },
+    {
+        "src": "assets/products/rolex.png",
+        "price": 35000
+    }
+]
